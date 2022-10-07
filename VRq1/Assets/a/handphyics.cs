@@ -4,14 +4,17 @@ using UnityEngine;
 
 public class handphyics : MonoBehaviour
 {
+
     public Transform target;
     private Rigidbody rb;
     private Collider[] handcolliders;
+
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         handcolliders = GetComponentsInChildren<Collider>();
+       
     }
 
     public void enableCollider()
@@ -22,8 +25,17 @@ public class handphyics : MonoBehaviour
         }
     }
 
+    public void OnCollisionEnter(Collision collision)
+    {
+        if(collision.gameObject.tag != "wall")
+        {
+            Invoke("disableCollider", 0);
+        }
+    }
     public void disableCollider()
     {
+        
+
         foreach (var item in handcolliders)
         {
             item.enabled = false;
