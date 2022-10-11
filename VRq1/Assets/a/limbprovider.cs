@@ -1,18 +1,76 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
+using UnityEngine.InputSystem;
 
 public class limbprovider : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public static event Action ClimbActive;
+    public static event Action Climbinactive;
+
+    public CharacterController character;
+    public InputActionProperty velocityright;
+    public InputActionProperty Velocityleft;
+
+    private bool _rightactive = false;
+    private bool _leftactive = false;
+
+    private void Start()
     {
-        
+        xr_climb.ClimbhandActivated += HandActivated;
+        xr_climb.ClimbhandDEActivated += HandDEActivated;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void OnDestroy()
     {
-        
+        xr_climb.ClimbhandActivated += HandActivated;
+        xr_climb.ClimbhandDEActivated += HandDEActivated;
+    }
+
+    private void HandActivated(string _controllername)
+    {
+        if(_controllername == "Lefthand")
+        {
+            _leftactive = true;
+            _rightactive = false;
+        }
+        else
+        {
+            _leftactive = false;
+            _rightactive = true;
+        }
+        ClimbActive?.Invoke();
+    }
+
+    private void HandDEActivated(string _controllername)
+    {
+        if (_rightactive &&_controllername == "Righthand")
+        {
+             _rightactive = false;
+            Climbinactive?.Invoke();
+        }
+        else if(_leftactive && _controllername =="Lefthand")
+        {
+            _leftactive = false;
+            Climbinactive?.Invoke();
+        }
+
+    }
+
+    private void FixedUpdate()
+    {
+        if(_rightactive|| _leftactive)
+        {
+            Climb();
+        }
+
+    }
+
+    private void Climb()
+    {
+        Vector3 velocity = _leftactive ? Velocityleft.action.ReadValue<Vector3>() : velocityright.action.ReadValue<Vector3>();
+
+        character.Move(character.transform.rotation * -velocity * Time.fixedDeltaTime);
     }
 }
