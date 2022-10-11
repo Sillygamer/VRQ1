@@ -7,7 +7,7 @@ public class handphyics : MonoBehaviour
 
     public Transform target;
     private Rigidbody rb;
-    private Collider[] handcolliders;
+    public Collider[] handcolliders;
 
     // Start is called before the first frame update
     void Start()
