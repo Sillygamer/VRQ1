@@ -160,6 +160,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3330613027863661688}
     - target: {fileID: 8060516116411162685, guid: 0363f36581b26aa459f09924a8063708, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8060516116411162685, guid: 0363f36581b26aa459f09924a8063708, type: 3}
       propertyPath: handcolliders.Array.size
       value: 22
       objectReference: {fileID: 0}
