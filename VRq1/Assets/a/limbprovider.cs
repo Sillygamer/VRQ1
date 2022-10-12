@@ -10,7 +10,6 @@ public class limbprovider : MonoBehaviour
     public static event Action Climbinactive;
 
     public CharacterController character;
-    public Rigidbody rb;
     public InputActionProperty velocityright;
     public InputActionProperty Velocityleft;
 
@@ -21,7 +20,7 @@ public class limbprovider : MonoBehaviour
     {
         xr_climb.ClimbhandActivated += HandActivated;
         xr_climb.ClimbhandDEActivated += HandDEActivated;
-        rb = GetComponent<Rigidbody>();
+
     }
 
     private void OnDestroy()
