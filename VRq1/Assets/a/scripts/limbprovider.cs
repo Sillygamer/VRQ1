@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using UnityEngine.InputSystem;
+using UnityEngine.XR.Interaction.Toolkit;
 
-public class limbprovider : MonoBehaviour
+public class limbprovider : LocomotionProvider
 {
     public static event Action ClimbActive;
     public static event Action Climbinactive;
@@ -16,11 +17,13 @@ public class limbprovider : MonoBehaviour
     private bool _rightactive = false;
     private bool _leftactive = false;
 
+    public Rigidbody rb;
+
     private void Start()
     {
         xr_climb.ClimbhandActivated += HandActivated;
         xr_climb.ClimbhandDEActivated += HandDEActivated;
-
+        rb = GetComponent<Rigidbody>();
     }
 
     private void OnDestroy()
@@ -61,7 +64,7 @@ public class limbprovider : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if(_rightactive|| _leftactive)
+        if(_rightactive|| _leftactive )
         {
             Climb();
 
@@ -71,8 +74,24 @@ public class limbprovider : MonoBehaviour
 
     private void Climb()
     {
-        Vector3 velocity = _leftactive ? Velocityleft.action.ReadValue<Vector3>() : velocityright.action.ReadValue<Vector3>();
+        Vector3 CollectControllerVelocity = _leftactive ? Velocityleft.action.ReadValue<Vector3>() : velocityright.action.ReadValue<Vector3>();
 
-        character.Move(character.transform.rotation * -velocity * Time.fixedDeltaTime);
+        //character.Move(character.transform.rotation * -velocity * Time.fixedDeltaTime);*/
+        Vector3 velocity = CollectControllerVelocity;
+        Transform origin = system.xrOrigin.transform;
+
+        velocity = origin.TransformDirection(velocity);
+        velocity *= Time.deltaTime;
+
+        //rb.AddForce(velocity);
+        
+        if (character)
+        {
+            character.Move(-velocity);
+        }
+        else
+        {
+            origin.position -= velocity;
+        }
     }
 }
