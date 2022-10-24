@@ -194,6 +194,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &18220379
@@ -266,6 +282,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -346,8 +378,28 @@ PrefabInstance:
       value: Bliock(interactible) (12)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -415,8 +467,24 @@ PrefabInstance:
       value: Bliock(interactible) (4)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -495,6 +563,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &62177703
@@ -569,8 +653,28 @@ PrefabInstance:
       value: Bliock(interactible) (10)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -1132,6 +1236,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &221516613
@@ -1205,6 +1325,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &278447791
@@ -1277,6 +1413,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -1371,6 +1523,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &437762477
@@ -1443,6 +1611,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -1518,8 +1702,28 @@ PrefabInstance:
       value: Bliock(interactible) (13)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -1598,6 +1802,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &452351831
@@ -1670,6 +1890,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -1749,6 +1985,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &494480451
@@ -1822,6 +2074,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &502642398
@@ -1894,6 +2162,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -1984,8 +2268,28 @@ PrefabInstance:
       value: Bliock(interactible) (8)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -2063,6 +2367,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -2371,6 +2691,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &685603405
@@ -2443,6 +2779,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -2751,6 +3103,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &746867619
@@ -2823,6 +3191,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -2897,6 +3281,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &773188302
@@ -2969,6 +3369,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -3044,8 +3460,28 @@ PrefabInstance:
       value: Bliock(interactible) (1)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -3124,6 +3560,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &811467696
@@ -3196,6 +3648,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -3276,8 +3744,28 @@ PrefabInstance:
       value: Bliock(interactible) (3)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -3350,8 +3838,24 @@ PrefabInstance:
       value: Bliock(interactible) (1).
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -3429,6 +3933,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -3513,6 +4033,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &997173366
@@ -3586,6 +4122,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1000170820
@@ -3658,6 +4210,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -3738,8 +4306,28 @@ PrefabInstance:
       value: Bliock(interactible) (6)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -3914,6 +4502,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1033069828
@@ -3976,8 +4580,24 @@ PrefabInstance:
       value: Bliock(interactible) (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -4045,8 +4665,24 @@ PrefabInstance:
       value: Bliock(interactible) (6)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -4422,6 +5058,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1141408038
@@ -4494,6 +5146,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -5035,8 +5703,24 @@ PrefabInstance:
       value: Bliock(interactible) (3)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -5116,8 +5800,28 @@ PrefabInstance:
       value: Bliock(interactible) (5)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -5439,6 +6143,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1322129458
@@ -5511,6 +6231,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -5585,6 +6321,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1352033021
@@ -5657,6 +6409,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -5732,8 +6500,28 @@ PrefabInstance:
       value: Bliock(interactible) (11)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -5811,6 +6599,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -5890,6 +6694,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1443389112
@@ -5963,6 +6783,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1468538096
@@ -6035,6 +6871,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -6343,6 +7195,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!65 &1557583217 stripped
@@ -6421,6 +7289,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1577181336
@@ -6493,6 +7377,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -6567,6 +7467,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1597063347
@@ -6639,6 +7555,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -6718,6 +7650,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1639731158
@@ -6787,9 +7735,33 @@ PrefabInstance:
       propertyPath: m_UseGravity
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236612, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TightenPosition
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -6864,6 +7836,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1651838655
@@ -6936,6 +7924,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -7010,6 +8014,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: ..
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1720606349
@@ -7082,6 +8102,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -7390,6 +8426,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1760543188
@@ -7462,6 +8514,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -7536,6 +8604,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1768430265
@@ -7608,6 +8692,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -7683,8 +8783,28 @@ PrefabInstance:
       value: Bliock(interactible) (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -7763,6 +8883,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1811905172
@@ -7835,6 +8971,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -7914,6 +9066,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1849711972
@@ -7987,6 +9155,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1856928749
@@ -8059,6 +9243,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -8134,8 +9334,28 @@ PrefabInstance:
       value: Bliock(interactible) (4)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -8203,8 +9423,24 @@ PrefabInstance:
       value: Bliock(interactible) (5)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -8283,6 +9519,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1886060461
@@ -8355,6 +9607,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -8429,6 +9697,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1898152743
@@ -8502,6 +9786,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &1912595027
@@ -8574,6 +9874,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -8654,8 +9970,28 @@ PrefabInstance:
       value: Bliock(interactible) (9)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -8733,6 +10069,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -8818,8 +10170,28 @@ PrefabInstance:
       value: Bliock(interactible) (7)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
@@ -8898,6 +10270,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &2087028792
@@ -8971,6 +10359,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bliock(interactible) (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
 --- !u!1001 &2115741602
@@ -9043,6 +10447,22 @@ PrefabInstance:
     - target: {fileID: 4720603369525236618, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Name
       value: Bliock(interactible) (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
@@ -9230,8 +10650,28 @@ PrefabInstance:
       value: Bliock(interactible)
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_TrackPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPosition
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotation
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothPositionAmount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
+      propertyPath: m_SmoothRotationAmount
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4720603369525236619, guid: 757d93cbd0ceec44282698dc7ff6fad1, type: 3}
       propertyPath: m_Colliders.Array.data[0]
