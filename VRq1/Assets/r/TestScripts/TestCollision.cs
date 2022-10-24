@@ -6,6 +6,7 @@ public class TestCollision : MonoBehaviour
 {
     public bool HasCollided;
     public string TagName;
+    public bool DestroyCollider;
     // Start is called before the first frame update
     void Start()
     {
@@ -25,7 +26,8 @@ public class TestCollision : MonoBehaviour
         if(other.gameObject.tag == TagName)
         {
             HasCollided = true;
-            Destroy(other.gameObject);
+
+            if (DestroyCollider == true) Destroy(other.gameObject);
         }
     }
 
