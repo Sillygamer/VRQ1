@@ -3383,7 +3383,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "The Space incident \nof 1952\r"
+  m_Text: "The Space incident \nof 1947\n\r"
 --- !u!222 &1376894264
 CanvasRenderer:
   m_ObjectHideFlags: 0
