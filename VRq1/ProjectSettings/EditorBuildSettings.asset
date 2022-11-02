@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/a/Title.unity
     guid: 737c4dda8e6659e45bf7b37f6680b44a
   - enabled: 1
+    path: Assets/a/office.unity
+    guid: dd875fb41f1008c40a253b2bc00deb8b
+  - enabled: 1
     path: Assets/r/TestScenes/ConceptImageScene.unity
     guid: e6929208cafdd3941a82b1b788b90a13
   m_configObjects:
