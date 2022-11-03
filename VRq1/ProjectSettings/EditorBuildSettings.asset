@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/r/TestScenes/ConceptImageScene.unity
     guid: e6929208cafdd3941a82b1b788b90a13
+  - enabled: 1
+    path: Assets/a/Playroom.unity
+    guid: 273ebdfb3da00d340a47a55fe60cac26
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5ef0cbac18bb5574185ca8eefd3ee18b, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fdf04f7c131b30145bcd27b3145f7bf3, type: 2}

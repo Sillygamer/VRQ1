@@ -22,7 +22,14 @@ public class Buttons : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
-
+    public void Playroom()
+    {
+        SceneManager.LoadScene(3);
+    }
+    public void exit()
+    {
+        Application.Quit();
+    }
     public void ChangeToCredits()
     {
         mainpanel.SetActive(false);
@@ -77,10 +84,5 @@ public class Buttons : MonoBehaviour
         creditpanel3.SetActive(false);
         creditpanel4.SetActive(false);
         creditpanel5.SetActive(false);
-    }
-
-    public void End()
-    {
-        Application.Quit();
     }
 }
