@@ -8,7 +8,7 @@ public class ToYourDemise : MonoBehaviour
     public GameObject goal;
     public GameObject Planet;
     public int Timer;
-    
+    public float MovePerFrame;
     //public bool AlsoCollide;
     // Start is called before the first frame update
     void Start()
@@ -24,7 +24,7 @@ public class ToYourDemise : MonoBehaviour
     {
         if (goal.GetComponent<TestCollision>().HasCollided == true) 
         {
-            Planet.transform.position = new Vector3(Planet.transform.position.x, Planet.transform.position.y, Planet.transform.position.z+1);
+            Planet.transform.position = new Vector3(Planet.transform.position.x, Planet.transform.position.y, Planet.transform.position.z+MovePerFrame);
 
             if (Timer <= 0)
             {
