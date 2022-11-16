@@ -18,7 +18,7 @@ public class DisappearOnGoal : MonoBehaviour
     {
         if (goal.GetComponent<TestCollision>().HasCollided == true)
         {
-            Destroy(this.gameObject);
+           this.gameObject.SetActive(false);
 
         }
     }

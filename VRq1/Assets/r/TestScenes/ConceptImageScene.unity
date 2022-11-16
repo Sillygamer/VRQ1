@@ -4331,6 +4331,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 3458534383310336456, guid: 37257b24f81d99d4ab5262b73be35a99, type: 3}
+      propertyPath: m_UseForceGrab
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7844849701961827059, guid: 37257b24f81d99d4ab5262b73be35a99, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -65203,6 +65207,10 @@ PrefabInstance:
       propertyPath: m_Colliders.Array.data[1]
       value: 
       objectReference: {fileID: 217158910406482365}
+    - target: {fileID: 1907017394974736831, guid: a3fe5dfda42f4f94ca58cdb9e004605d, type: 3}
+      propertyPath: m_InteractionLayers.m_Bits
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a3fe5dfda42f4f94ca58cdb9e004605d, type: 3}
 --- !u!1001 &7421367709457847909
